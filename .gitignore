@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data used for testing
+tests/
+
+# Runs
+runs/
